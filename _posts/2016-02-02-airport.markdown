@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+title: Airport
+img: airport.png
+alt: Airport
+description: Taxi Vetima picks you up at the Airports.<br>(At the Arrival Gate with Name Board or at the taxi stop area)<br><br>Additional parking fee EUR 2 can be charged in picking you up at the Prishtina Airport.<br><br>Additional motorway toll EUR 1 can be charged in trips in Macedonia.
+destinations: 
+  - name: Pristina Airport
+    price: EUR 15
+  - name: Skopje Airpot
+    price: EUR 65
+  - name: Tirana Airpot
+    price: EUR 160
+  - name: Podgorica Airport
+    price: EUR 200
+---

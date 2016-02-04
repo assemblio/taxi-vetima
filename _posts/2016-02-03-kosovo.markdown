@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: 1
+title: Kosovo
+img: kosovo.png
+alt: Kosovo
+description: Taxi Vetima covers the capital city Prishtina and every town and village in Kosovo.
+destinations: 
+  - name: Prizren
+    price: EUR 45 (Round Trip EUR 60)
+  - name: Pejë
+    price: EUR 45
+  - name: Deçan
+    price: EUR 60
+  - name: Mitrovicë
+    price: EUR 30  
+  - name: Ferizaj
+    price: EUR 30
+  - name: Gjakovë
+    price: EUR 50
+  - name: Gračanica
+    price: EUR 10 (Round Trip EUR 15)
+  - name: Podujevo
+    price: EUR 30
+  - name: 1 Day Drive
+    price: EUR 100
+---

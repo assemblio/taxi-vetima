@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+title: Albania - Macedonia - Montenegro
+img: region.png
+alt: Albania - Macedonia - Montenegro
+description: Texi Vetima crosses the borders.
+destinations: 
+  - name: Skopje City Center
+    price: EUR 55
+  - name: Tirana City Center
+    price: EUR 160
+  - name: Podgorica City Center
+    price: EUR 200
+---

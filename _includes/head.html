@@ -21,6 +21,9 @@
 	<meta property="og:description" content="{{ site.description }}" />
 	<meta property="og:site_name" content="{{ site.title }}" />
 
+    <!-- Disable Skype highlighting phone numbers -->
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">

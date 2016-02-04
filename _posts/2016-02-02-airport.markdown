@@ -11,7 +11,7 @@ destinations:
   - name: Skopje Airpot
     price: EUR 65
   - name: Tirana Airpot
-    price: EUR 160
+    price: EUR 170
   - name: Podgorica Airport
     price: EUR 200
 ---

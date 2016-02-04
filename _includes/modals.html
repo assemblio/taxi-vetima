@@ -2,6 +2,13 @@
  <style>
      .destinations li { background: white; }
      .destinations li:nth-child(odd) { background: #E8E8EE; }
+
+     @media screen and (min-width: 480px) {
+        .destinations {
+            padding-left:16%;
+            padding-right:16%;
+        }
+     }
  </style>
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
